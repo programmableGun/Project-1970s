@@ -1,0 +1,49 @@
+ComputerPhiliie youtube video
+
+there is a language called assembly, that is what the computer reads and makes logic off off
+
+Fireship  Assembly Language 
+Asm code
+
+Kathleen Boom
+APec
+
+20,000,00 dollar ibm used assembly
+
+
+Web assembly?
+
+Arm,
+
+Nasm The netwide assembler uses .asm
+
+basic tutorial
+
+
+Text main program
+
+
+
+
+section .bss
+    ; varibles
+
+section .data
+    ; constants
+
+    ;example
+    hello: db "Hello World!", 10 ;string to print
+    helloLen: +
+    //label
+    // define byte = db
+    // then data like string, int
+
+
+
+section .text
+    global _start    // entry point
+                                    ; are used for comments
+    _start:   // start here
+
+
+
